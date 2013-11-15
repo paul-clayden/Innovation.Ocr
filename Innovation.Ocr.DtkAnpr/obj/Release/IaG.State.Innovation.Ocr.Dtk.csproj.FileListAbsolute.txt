@@ -1,0 +1,12 @@
+C:\Users\si554365\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Ocr.DtkAnpr\bin\Release\IaG.State.Innovation.Ocr.DtkAnpr.dll
+C:\Users\si554365\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Ocr.DtkAnpr\bin\Release\IaG.State.Innovation.Ocr.DtkAnpr.pdb
+C:\Users\si554365\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Ocr.DtkAnpr\bin\Release\Interop.DTKANPRLib.dll
+C:\Users\si554365\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Ocr.DtkAnpr\obj\Release\IaG.State.Innovation.Ocr.Dtk.csprojResolveAssemblyReference.cache
+C:\Users\si554365\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Ocr.DtkAnpr\obj\Release\IaG.State.Innovation.Ocr.DtkAnpr.dll
+C:\Users\si554365\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Ocr.DtkAnpr\obj\Release\IaG.State.Innovation.Ocr.DtkAnpr.pdb
+C:\Users\paul\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Ocr.DtkAnpr\bin\Release\IaG.State.Innovation.Ocr.DtkAnpr.dll
+C:\Users\paul\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Ocr.DtkAnpr\bin\Release\IaG.State.Innovation.Ocr.DtkAnpr.pdb
+C:\Users\paul\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Ocr.DtkAnpr\bin\Release\Interop.DTKANPRLib.dll
+C:\Users\paul\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Ocr.DtkAnpr\obj\Release\IaG.State.Innovation.Ocr.Dtk.csprojResolveAssemblyReference.cache
+C:\Users\paul\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Ocr.DtkAnpr\obj\Release\IaG.State.Innovation.Ocr.DtkAnpr.dll
+C:\Users\paul\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Ocr.DtkAnpr\obj\Release\IaG.State.Innovation.Ocr.DtkAnpr.pdb

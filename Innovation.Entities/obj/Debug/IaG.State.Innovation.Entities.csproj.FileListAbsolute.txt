@@ -1,0 +1,8 @@
+c:\users\si554365\documents\visual studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Entities\bin\Debug\IaG.State.Innovation.Entities.dll
+c:\users\si554365\documents\visual studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Entities\bin\Debug\IaG.State.Innovation.Entities.pdb
+c:\users\si554365\documents\visual studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Entities\obj\Debug\IaG.State.Innovation.Entities.dll
+c:\users\si554365\documents\visual studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Entities\obj\Debug\IaG.State.Innovation.Entities.pdb
+C:\Users\paul\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Entities\bin\Debug\IaG.State.Innovation.Entities.dll
+C:\Users\paul\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Entities\bin\Debug\IaG.State.Innovation.Entities.pdb
+C:\Users\paul\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Entities\obj\Debug\IaG.State.Innovation.Entities.dll
+C:\Users\paul\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\IaG.State.Innovation.Entities\obj\Debug\IaG.State.Innovation.Entities.pdb

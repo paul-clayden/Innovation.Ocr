@@ -1,0 +1,4 @@
+C:\Users\si554365\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\Iag.State.Innovation.OCRTest\obj\Debug\Iag.State.Innovation.OCRTest.csprojResolveAssemblyReference.cache
+C:\Users\si554365\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\Iag.State.Innovation.OCRTest\obj\Debug\Iag.State.Innovation.OCRTest.Form1.resources
+C:\Users\si554365\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\Iag.State.Innovation.OCRTest\obj\Debug\Iag.State.Innovation.OCRTest.Properties.Resources.resources
+C:\Users\si554365\Documents\Visual Studio 2012\Projects\IaG.State.Innovation.OcrQuoteBuy\Iag.State.Innovation.OCRTest\obj\Debug\Iag.State.Innovation.OCRTest.csproj.GenerateResource.Cache

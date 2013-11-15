@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Data>
+  <Vehicles>
+    <Vehicle>
+      <VehicleId>CC2D2644-DB27-477C-99AD-A34E6FD3F139</VehicleId>
+      <Registration>MEOWDI</Registration>
+      <Make>Audi</Make>
+      <Model>A4</Model>
+      <Year>1996</Year>
+      <Colour>Silver</Colour>
+      <VehicleQuoteId>1CD15619-C41F-4A26-8023-E811A4E154F6</VehicleQuoteId>
+    </Vehicle>
+    <Vehicle>
+      <VehicleId>16A9C1C8-95DF-44E6-94A5-C6DC4FDAAC29</VehicleId>
+      <Registration>XB5827</Registration>
+      <Make>BMW</Make>
+      <Model>528i</Model>
+      <Year>?</Year>
+      <Colour>Burgundy</Colour>
+      <VehicleQuoteId>513B18C6-FC32-46AE-BBAA-32068FD4E47F</VehicleQuoteId>
+    </Vehicle>
+    <Vehicle>
+      <VehicleId>F1AA5EE1-77CC-439C-9E5A-079C1B223BEA</VehicleId>
+      <Registration>66STI6</Registration>
+      <Make>Subaru</Make>
+      <Model>Legacy</Model>
+      <Year>?</Year>
+      <Colour>Blue</Colour>
+      <VehicleQuoteId>17B297A0-C72A-4D0E-9321-2AF8CAEEDCA6</VehicleQuoteId>
+    </Vehicle>
+    <Vehicle>
+      <VehicleId>DB0AB831-E9E7-4BD9-802C-D2D606610B42</VehicleId>
+      <Registration>MAORI</Registration>
+      <Make>Mitsubishi</Make>
+      <Model>Dion</Model>
+      <Year>2000</Year>
+      <Colour>Black</Colour>
+      <VehicleQuoteId>4C5BCE79-2BEE-49ED-A0BB-AEDB94B13EEB</VehicleQuoteId>
+    </Vehicle>
+    <Vehicle>
+      <VehicleId>7030A13A-9EC7-4664-B26D-718A9156E7BB</VehicleId>
+      <Registration>DIMWIT</Registration>
+      <Make>Vokswagen</Make>
+      <Model>Golf</Model>
+      <Year>2003</Year>
+      <Colour>Black</Colour>
+      <VehicleQuoteId>35931061-8227-4B86-80C6-572AD9376911</VehicleQuoteId>
+    </Vehicle>
+  </Vehicles>
+
+
+  <Pricing>
+    <VehicleQuotes>
+      <VehicleQuote>
+        <VehicleQuoteId>1CD15619-C41F-4A26-8023-E811A4E154F6</VehicleQuoteId>
+        <Option1 Name="Third Party">
+          100.00
+        </Option1>
+        <Option2 Name="TP, Fire &amp; Theft">
+          150.00
+        </Option2>
+        <Option3 Name="Comprehensive">
+          250.00
+        </Option3>
+      </VehicleQuote>
+      <VehicleQuote>
+        <VehicleQuoteId>513B18C6-FC32-46AE-BBAA-32068FD4E47F</VehicleQuoteId>
+        <Option1 Name="Third Party">
+          90.00
+        </Option1>
+        <Option2 Name="TP, Fire &amp; Theft">
+          140.00
+        </Option2>
+        <Option3 Name="Comprehensive">
+          235.00
+        </Option3>
+      </VehicleQuote>
+      <VehicleQuote>
+        <VehicleQuoteId>17B297A0-C72A-4D0E-9321-2AF8CAEEDCA6</VehicleQuoteId>
+        <Option1 Name="Third Party">
+          100.00
+        </Option1>
+        <Option2 Name="TP, Fire &amp; Theft">
+          150.00
+        </Option2>
+        <Option3 Name="Comprehensive">
+          250.00
+        </Option3>
+      </VehicleQuote>
+      <VehicleQuote>
+        <VehicleQuoteId>4C5BCE79-2BEE-49ED-A0BB-AEDB94B13EEB</VehicleQuoteId>
+        <Option1 Name="Third Party">
+          100.00
+        </Option1>
+        <Option2 Name="TP, Fire &amp; Theft">
+          150.00
+        </Option2>
+        <Option3 Name="Comprehensive">
+          250.00
+        </Option3>
+      </VehicleQuote>
+      <VehicleQuote>
+        <VehicleQuoteId>35931061-8227-4B86-80C6-572AD9376911</VehicleQuoteId>
+        <Option1 Name="Third Party">
+          100.00
+        </Option1>
+        <Option2 Name="TP, Fire &amp; Theft">
+          150.00
+        </Option2>
+        <Option3 Name="Comprehensive">
+          250.00
+        </Option3>
+      </VehicleQuote>
+    </VehicleQuotes>
+  </Pricing>
+</Data>

@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innovation.Data", "Innovation.Data\Innovation.Data.csproj", "{FFD937D3-149B-4F5E-A27E-FCFA9DB98EFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innovation.Entities", "Innovation.Entities\Innovation.Entities.csproj", "{72D4D3A4-A71F-4020-8508-FF769EB7FC56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innovation.Ocr.Dtk", "Innovation.Ocr.DtkAnpr\Innovation.Ocr.Dtk.csproj", "{4ED5112A-AC41-49BD-9E26-5689BD7F2807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innovation.OcrQuoteBuy.Api", "Innovation.OcrQuoteBuy\Innovation.OcrQuoteBuy.Api.csproj", "{F033E586-BB5F-4221-89D4-391210DAB4E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innovation.OcrQuoteBuy.Tests", "Innovation.OcrQuoteBuy.Tests\Innovation.OcrQuoteBuy.Tests.csproj", "{78358042-C7A0-4443-B74A-4C510F9CB312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innovation.DtkOcrTest", "Innovation.OCRTest\Innovation.DtkOcrTest.csproj", "{7B3E5550-DCC8-4854-B3FA-E05BDDF564DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innovation.RegControllerTest", "Innovation.RegControllerTest\Innovation.RegControllerTest.csproj", "{EB65796C-C083-4D0A-A2DB-809D9A384B29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD937D3-149B-4F5E-A27E-FCFA9DB98EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD937D3-149B-4F5E-A27E-FCFA9DB98EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD937D3-149B-4F5E-A27E-FCFA9DB98EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD937D3-149B-4F5E-A27E-FCFA9DB98EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D4D3A4-A71F-4020-8508-FF769EB7FC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D4D3A4-A71F-4020-8508-FF769EB7FC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D4D3A4-A71F-4020-8508-FF769EB7FC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D4D3A4-A71F-4020-8508-FF769EB7FC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED5112A-AC41-49BD-9E26-5689BD7F2807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED5112A-AC41-49BD-9E26-5689BD7F2807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED5112A-AC41-49BD-9E26-5689BD7F2807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED5112A-AC41-49BD-9E26-5689BD7F2807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F033E586-BB5F-4221-89D4-391210DAB4E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F033E586-BB5F-4221-89D4-391210DAB4E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F033E586-BB5F-4221-89D4-391210DAB4E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F033E586-BB5F-4221-89D4-391210DAB4E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78358042-C7A0-4443-B74A-4C510F9CB312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78358042-C7A0-4443-B74A-4C510F9CB312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78358042-C7A0-4443-B74A-4C510F9CB312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78358042-C7A0-4443-B74A-4C510F9CB312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3E5550-DCC8-4854-B3FA-E05BDDF564DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3E5550-DCC8-4854-B3FA-E05BDDF564DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3E5550-DCC8-4854-B3FA-E05BDDF564DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3E5550-DCC8-4854-B3FA-E05BDDF564DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB65796C-C083-4D0A-A2DB-809D9A384B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB65796C-C083-4D0A-A2DB-809D9A384B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB65796C-C083-4D0A-A2DB-809D9A384B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB65796C-C083-4D0A-A2DB-809D9A384B29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

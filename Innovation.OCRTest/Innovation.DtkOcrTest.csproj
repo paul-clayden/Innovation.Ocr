@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7B3E5550-DCC8-4854-B3FA-E05BDDF564DB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Innovation.OCRTest</RootNamespace>
+    <AssemblyName>Innovation.OCRTest</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="bin\Debug\tessdata\ara.cube.bigrams" />
+    <None Include="bin\Debug\tessdata\ara.cube.fold" />
+    <None Include="bin\Debug\tessdata\ara.cube.lm" />
+    <None Include="bin\Debug\tessdata\ara.cube.nn" />
+    <None Include="bin\Debug\tessdata\ara.cube.params" />
+    <None Include="bin\Debug\tessdata\ara.cube.size" />
+    <None Include="bin\Debug\tessdata\ara.cube.word-freq" />
+    <None Include="bin\Debug\tessdata\ara.traineddata" />
+    <None Include="bin\Debug\tessdata\bul.traineddata" />
+    <None Include="bin\Debug\tessdata\cat.traineddata" />
+    <None Include="bin\Debug\tessdata\ces.traineddata" />
+    <None Include="bin\Debug\tessdata\chi_sim.traineddata" />
+    <None Include="bin\Debug\tessdata\chi_tra.traineddata" />
+    <None Include="bin\Debug\tessdata\configs\ambigs.train" />
+    <None Include="bin\Debug\tessdata\configs\api_config" />
+    <None Include="bin\Debug\tessdata\configs\box.train" />
+    <None Include="bin\Debug\tessdata\configs\box.train.stderr" />
+    <None Include="bin\Debug\tessdata\configs\digits" />
+    <None Include="bin\Debug\tessdata\configs\hocr" />
+    <None Include="bin\Debug\tessdata\configs\inter" />
+    <None Include="bin\Debug\tessdata\configs\kannada" />
+    <None Include="bin\Debug\tessdata\configs\linebox" />
+    <None Include="bin\Debug\tessdata\configs\logfile" />
+    <None Include="bin\Debug\tessdata\configs\makebox" />
+    <None Include="bin\Debug\tessdata\configs\Makefile.am" />
+    <None Include="bin\Debug\tessdata\configs\rebox" />
+    <None Include="bin\Debug\tessdata\configs\strokewidth" />
+    <None Include="bin\Debug\tessdata\configs\unlv" />
+    <None Include="bin\Debug\tessdata\dan-frak.traineddata" />
+    <None Include="bin\Debug\tessdata\dan.traineddata" />
+    <None Include="bin\Debug\tessdata\deu-frak.traineddata" />
+    <None Include="bin\Debug\tessdata\deu.traineddata" />
+    <None Include="bin\Debug\tessdata\ell.traineddata" />
+    <None Include="bin\Debug\tessdata\eng.cube.bigrams" />
+    <None Include="bin\Debug\tessdata\eng.cube.fold" />
+    <None Include="bin\Debug\tessdata\eng.cube.lm" />
+    <None Include="bin\Debug\tessdata\eng.cube.nn" />
+    <None Include="bin\Debug\tessdata\eng.cube.params" />
+    <None Include="bin\Debug\tessdata\eng.cube.size" />
+    <None Include="bin\Debug\tessdata\eng.cube.word-freq" />
+    <None Include="bin\Debug\tessdata\eng.tesseract_cube.nn" />
+    <None Include="bin\Debug\tessdata\eng.traineddata" />
+    <None Include="bin\Debug\tessdata\fin.traineddata" />
+    <None Include="bin\Debug\tessdata\fra.traineddata" />
+    <None Include="bin\Debug\tessdata\heb.traineddata" />
+    <None Include="bin\Debug\tessdata\hin.cube.bigrams" />
+    <None Include="bin\Debug\tessdata\hin.cube.fold" />
+    <None Include="bin\Debug\tessdata\hin.cube.lm" />
+    <None Include="bin\Debug\tessdata\hin.cube.nn" />
+    <None Include="bin\Debug\tessdata\hin.cube.params" />
+    <None Include="bin\Debug\tessdata\hin.cube.word-freq" />
+    <None Include="bin\Debug\tessdata\hin.tesseract_cube.nn" />
+    <None Include="bin\Debug\tessdata\hin.traineddata" />
+    <None Include="bin\Debug\tessdata\hrv.traineddata" />
+    <None Include="bin\Debug\tessdata\hun.traineddata" />
+    <None Include="bin\Debug\tessdata\ind.traineddata" />
+    <None Include="bin\Debug\tessdata\ita.traineddata" />
+    <None Include="bin\Debug\tessdata\jpn.traineddata" />
+    <None Include="bin\Debug\tessdata\kor.traineddata" />
+    <None Include="bin\Debug\tessdata\lav.traineddata" />
+    <None Include="bin\Debug\tessdata\lit.traineddata" />
+    <None Include="bin\Debug\tessdata\makedummies" />
+    <None Include="bin\Debug\tessdata\Makefile.am" />
+    <None Include="bin\Debug\tessdata\nld.traineddata" />
+    <None Include="bin\Debug\tessdata\nor.traineddata" />
+    <None Include="bin\Debug\tessdata\osd.traineddata" />
+    <None Include="bin\Debug\tessdata\pol.traineddata" />
+    <None Include="bin\Debug\tessdata\por.traineddata" />
+    <None Include="bin\Debug\tessdata\ron.traineddata" />
+    <None Include="bin\Debug\tessdata\rus.traineddata" />
+    <None Include="bin\Debug\tessdata\slk-frak.traineddata" />
+    <None Include="bin\Debug\tessdata\slk.traineddata" />
+    <None Include="bin\Debug\tessdata\slv.traineddata" />
+    <None Include="bin\Debug\tessdata\spa.traineddata" />
+    <None Include="bin\Debug\tessdata\srp.traineddata" />
+    <None Include="bin\Debug\tessdata\swe.traineddata" />
+    <None Include="bin\Debug\tessdata\tessconfigs\batch" />
+    <None Include="bin\Debug\tessdata\tessconfigs\batch.nochop" />
+    <None Include="bin\Debug\tessdata\tessconfigs\Makefile.am" />
+    <None Include="bin\Debug\tessdata\tessconfigs\matdemo" />
+    <None Include="bin\Debug\tessdata\tessconfigs\msdemo" />
+    <None Include="bin\Debug\tessdata\tessconfigs\nobatch" />
+    <None Include="bin\Debug\tessdata\tessconfigs\segdemo" />
+    <None Include="bin\Debug\tessdata\tgl.traineddata" />
+    <None Include="bin\Debug\tessdata\tha.traineddata" />
+    <None Include="bin\Debug\tessdata\tur.traineddata" />
+    <None Include="bin\Debug\tessdata\ukr.traineddata" />
+    <None Include="bin\Debug\tessdata\vie.traineddata" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Innovation.Ocr.DtkAnpr\Innovation.Ocr.Dtk.csproj">
+      <Project>{4ed5112a-ac41-49bd-9e26-5689bd7f2807}</Project>
+      <Name>Innovation.Ocr.Dtk</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
