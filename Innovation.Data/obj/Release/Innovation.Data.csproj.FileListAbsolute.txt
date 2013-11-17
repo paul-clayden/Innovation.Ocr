@@ -1,0 +1,11 @@
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Release\Datasource.xml
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Release\Innovation.Data.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Release\Innovation.Data.pdb
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Release\Innovation.Entities.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Release\Innovation.Ocr.DtkAnpr.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Release\Interop.DTKANPRLib.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Release\Innovation.Entities.pdb
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Release\Innovation.Ocr.DtkAnpr.pdb
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\obj\Release\Innovation.Data.csprojResolveAssemblyReference.cache
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\obj\Release\Innovation.Data.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\obj\Release\Innovation.Data.pdb

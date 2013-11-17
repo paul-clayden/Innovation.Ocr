@@ -1,0 +1,6 @@
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.DtkAnpr\bin\Release\Innovation.Ocr.DtkAnpr.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.DtkAnpr\bin\Release\Innovation.Ocr.DtkAnpr.pdb
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.DtkAnpr\bin\Release\Interop.DTKANPRLib.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.DtkAnpr\obj\Release\Innovation.Ocr.Dtk.csprojResolveAssemblyReference.cache
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.DtkAnpr\obj\Release\Innovation.Ocr.DtkAnpr.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.DtkAnpr\obj\Release\Innovation.Ocr.DtkAnpr.pdb

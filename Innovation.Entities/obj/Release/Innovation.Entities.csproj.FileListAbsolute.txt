@@ -1,0 +1,5 @@
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Entities\bin\Release\Innovation.Entities.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Entities\bin\Release\Innovation.Entities.pdb
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Entities\obj\Release\Innovation.Entities.csprojResolveAssemblyReference.cache
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Entities\obj\Release\Innovation.Entities.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Entities\obj\Release\Innovation.Entities.pdb

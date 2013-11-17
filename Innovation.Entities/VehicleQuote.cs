@@ -11,6 +11,7 @@ namespace IaG.State.Innovation.Entities
         public decimal Option1 { get; set; }
         public decimal Option2 { get; set; }
         public decimal Option3 { get; set; }
+        public Guid PromoCode {get;set;}
         public Guid VehicleQuoteId { get; set; }
     }
 }

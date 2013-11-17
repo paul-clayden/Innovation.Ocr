@@ -34,6 +34,8 @@ namespace Innovation.OcrQuoteBuy.Controllers
         [ActionName("GetById")]
         public Vehicle Get(string id)
         {
+            Guard.IsNotAGuid(id);
+
             return _repository.Get(Guid.Parse(id));
         }
 
@@ -45,9 +47,10 @@ namespace Innovation.OcrQuoteBuy.Controllers
         [HttpGet]
         [ActionName("GetByPlate")]
         public Vehicle GetByPlate(string id)
-        {
+        {          
             return _repository.Get(id);
         }
 
+        
     }
 }

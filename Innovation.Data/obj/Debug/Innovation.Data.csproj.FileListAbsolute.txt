@@ -20,3 +20,14 @@ C:\Users\si554365\Documents\Visual Studio 2012\Projects\Innovation.OcrQuoteBuy\I
 C:\Users\si554365\Documents\Visual Studio 2012\Projects\Innovation.OcrQuoteBuy\Innovation.Data\bin\Debug\Interop.DTKANPRLib.dll
 C:\Users\si554365\Documents\Visual Studio 2012\Projects\Innovation.OcrQuoteBuy\Innovation.Data\bin\Debug\Innovation.Entities.pdb
 C:\Users\si554365\Documents\Visual Studio 2012\Projects\Innovation.OcrQuoteBuy\Innovation.Data\bin\Debug\Innovation.Ocr.DtkAnpr.pdb
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Debug\Datasource.xml
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Debug\Innovation.Data.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Debug\Innovation.Data.pdb
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Debug\Innovation.Entities.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Debug\Innovation.Ocr.DtkAnpr.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Debug\Interop.DTKANPRLib.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Debug\Innovation.Entities.pdb
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\bin\Debug\Innovation.Ocr.DtkAnpr.pdb
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\obj\Debug\Innovation.Data.csprojResolveAssemblyReference.cache
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\obj\Debug\Innovation.Data.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Data\obj\Debug\Innovation.Data.pdb

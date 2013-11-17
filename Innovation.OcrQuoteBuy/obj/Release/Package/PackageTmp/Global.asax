@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="IaG.State.Innovation.OcrQuoteBuy.WebApiApplication" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Innovation.OcrQuoteBuy.WebApiApplication" Language="C#" %>

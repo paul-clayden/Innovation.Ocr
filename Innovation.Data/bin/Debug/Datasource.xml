@@ -114,4 +114,10 @@
       </VehicleQuote>
     </VehicleQuotes>
   </Pricing>
+  <Promotions>
+    <Promotion>
+      <Id>0B0B8BEF-27D7-4C4D-8236-C2C7EE81371E</Id>
+      <PrizeDetails>Congratulations. You're a Prize winner in our random draw for a brand new Hyudai Sante Fe. Prizes claimed at MatchBox cars</PrizeDetails>
+    </Promotion>
+  </Promotions>
 </Data>

@@ -6,3 +6,7 @@ C:\Users\si554365\Documents\Visual Studio 2012\Projects\Innovation.OcrQuoteBuy\I
 C:\Users\si554365\Documents\Visual Studio 2012\Projects\Innovation.OcrQuoteBuy\Innovation.Entities\bin\Debug\Innovation.Entities.pdb
 C:\Users\si554365\Documents\Visual Studio 2012\Projects\Innovation.OcrQuoteBuy\Innovation.Entities\obj\Debug\Innovation.Entities.dll
 C:\Users\si554365\Documents\Visual Studio 2012\Projects\Innovation.OcrQuoteBuy\Innovation.Entities\obj\Debug\Innovation.Entities.pdb
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Entities\bin\Debug\Innovation.Entities.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Entities\bin\Debug\Innovation.Entities.pdb
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Entities\obj\Debug\Innovation.Entities.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Entities\obj\Debug\Innovation.Entities.pdb

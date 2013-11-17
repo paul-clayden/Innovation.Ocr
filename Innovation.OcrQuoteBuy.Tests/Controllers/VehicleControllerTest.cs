@@ -61,7 +61,7 @@ namespace Innovation.OcrQuoteBuy.Tests.Controllers
         #endregion
 
         [TestMethod()]
-        [DeploymentItem("Datasource.xml")]
+        [DeploymentItem(@"Datasource.xml")]
         public void Test_Get_Returns_n_Cars()
         {
             var controller = new VehicleController();
@@ -70,7 +70,7 @@ namespace Innovation.OcrQuoteBuy.Tests.Controllers
         }
 
         [TestMethod()]
-        [DeploymentItem("Datasource.xml")]
+        [DeploymentItem(@"Datasource.xml")]
         public void Test_Get_Returns_Car_with_given_Id()
         {
             var controller = new VehicleController();

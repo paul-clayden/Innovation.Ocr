@@ -13,7 +13,7 @@ using System.Net;
 namespace Innovation.OcrQuoteBuy.Tests.Controllers
 {
     [TestClass]
-    public class RegControllerTest
+    public class OcrControllerTest
     {
         [TestMethod]
         public async void Post_valid_image_returns_registration_text()

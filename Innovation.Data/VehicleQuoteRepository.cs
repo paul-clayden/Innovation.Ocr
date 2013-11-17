@@ -3,20 +3,28 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 using IaG.State.Innovation.Entities;
 
 namespace IaG.State.Innovation.Data
 {
-    public class VehicleQuoteRepository : RespositoryBase<VehicleQuote>,  IDataRepository<VehicleQuoteRepository>
+    public class VehicleQuoteRepository : RespositoryBase<VehicleQuote>,  IDataRepository<VehicleQuote>
     {
-        public IEnumerable<VehicleQuoteRepository> Get()
+        private IEnumerable<XElement> _vehicleQuoteDataSource;
+
+        public VehicleQuoteRepository()
         {
-            throw new NotImplementedException();
+            _vehicleQuoteDataSource = base.DataSource.Document.Descendants("VehicleQuote");
+        }
+        public IEnumerable<VehicleQuote> Get()
+        {
+            throw new NotSupportedException();
         }
 
-        public VehicleQuoteRepository Get(Guid id)
+        public VehicleQuote Get(Guid id)
         {
-            throw new NotImplementedException();
+            var data = _vehicleQuoteDataSource.Where(x => Guid.Parse(x.Descendants("VehicleQuoteId").FirstOrDefault().Value) == id);
+            return Serialiser.Deserialise<VehicleQuote>(data.First().ToString()); 
         }
     }
 }

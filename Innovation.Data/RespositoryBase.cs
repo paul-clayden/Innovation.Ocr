@@ -18,7 +18,10 @@ namespace IaG.State.Innovation.Data
         {
             //var path = new FileInfo(new Uri(Assembly.GetExecutingAssembly().CodeBase).AbsolutePath).Directory.FullName;
             var path = AppDomain.CurrentDomain.BaseDirectory;
-            DataSource = XmlFileHelper.GetXmlDoc(Path.Combine(path, @"bin\Datasource.xml"));
+            if (Directory.Exists(path + "\bin"))
+                DataSource = XmlFileHelper.GetXmlDoc(Path.Combine(path, @"bin\Datasource.xml"));
+            else
+                DataSource = XmlFileHelper.GetXmlDoc(Path.Combine(path, @"Datasource.xml"));
         }
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.BusinessLogic\bin\Debug\Innovation.Ocr.BusinessLogic.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.BusinessLogic\bin\Debug\Innovation.Ocr.BusinessLogic.pdb
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.BusinessLogic\obj\Debug\Innovation.Ocr.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.BusinessLogic\obj\Debug\Innovation.Ocr.BusinessLogic.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.BusinessLogic\obj\Debug\Innovation.Ocr.BusinessLogic.pdb

@@ -396,10 +396,24 @@
             </summary>
             <param name="documentPath">The physical path to XML document.</param>
         </member>
+        <member name="M:Innovation.OcrQuoteBuy.Controllers.PromoController.Get(System.String)">
+            <summary>
+            GET api/Promo/GetById . Checks for a prize winner by vehicle Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
         <member name="M:Innovation.OcrQuoteBuy.Controllers.OcrController.Post">
             <summary>
             POST api/ocr - Post an image of vehicle plate as header 'Image' (Base64 string). Match returns plate number as string
             </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Innovation.OcrQuoteBuy.Controllers.PricingController.Get(System.String)">
+            <summary>
+            Get /api/Quote/GetById/id . Retrieves vehicle insurance price by vehiclequoteid
+            </summary>
+            <param name="id"></param>
             <returns></returns>
         </member>
         <member name="M:Innovation.OcrQuoteBuy.Controllers.VehicleController.Get">

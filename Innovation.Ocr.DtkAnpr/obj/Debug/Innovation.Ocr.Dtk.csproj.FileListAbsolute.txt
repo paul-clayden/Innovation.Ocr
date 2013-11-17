@@ -9,3 +9,9 @@ C:\Users\si554365\Documents\Visual Studio 2012\Projects\Innovation.OcrQuoteBuy\I
 C:\Users\si554365\Documents\Visual Studio 2012\Projects\Innovation.OcrQuoteBuy\Innovation.Ocr.DtkAnpr\obj\Debug\Innovation.Ocr.Dtk.csprojResolveAssemblyReference.cache
 C:\Users\si554365\Documents\Visual Studio 2012\Projects\Innovation.OcrQuoteBuy\Innovation.Ocr.DtkAnpr\obj\Debug\Innovation.Ocr.DtkAnpr.dll
 C:\Users\si554365\Documents\Visual Studio 2012\Projects\Innovation.OcrQuoteBuy\Innovation.Ocr.DtkAnpr\obj\Debug\Innovation.Ocr.DtkAnpr.pdb
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.DtkAnpr\bin\Debug\Innovation.Ocr.DtkAnpr.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.DtkAnpr\bin\Debug\Innovation.Ocr.DtkAnpr.pdb
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.DtkAnpr\bin\Debug\Interop.DTKANPRLib.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.DtkAnpr\obj\Debug\Innovation.Ocr.Dtk.csprojResolveAssemblyReference.cache
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.DtkAnpr\obj\Debug\Innovation.Ocr.DtkAnpr.dll
+C:\Users\paul\Documents\GitHub\Innovation.Ocr\Innovation.Ocr.DtkAnpr\obj\Debug\Innovation.Ocr.DtkAnpr.pdb

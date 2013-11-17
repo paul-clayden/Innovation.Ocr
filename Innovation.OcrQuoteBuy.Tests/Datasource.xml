@@ -3,69 +3,52 @@
 <Data>
   <Vehicles>
     <Vehicle>
-      <VehicleId>1CD15619-C41F-4A26-8023-E811A4E154F6</VehicleId>
-      <Registration>J98257</Registration>
-      <Make>Ford</Make>
-      <Model>Falcon</Model>
-      <Year>2010</Year>
+      <VehicleId>CC2D2644-DB27-477C-99AD-A34E6FD3F139</VehicleId>
+      <Registration>MEOWDI</Registration>
+      <Make>Audi</Make>
+      <Model>A4</Model>
+      <Year>1996</Year>
       <Colour>Silver</Colour>
       <VehicleQuoteId>1CD15619-C41F-4A26-8023-E811A4E154F6</VehicleQuoteId>
     </Vehicle>
     <Vehicle>
-      <VehicleId>513B18C6-FC32-46AE-BBAA-32068FD4E47F</VehicleId>
-      <Registration>KYA145</Registration>
-      <Make>Honda</Make>
-      <Model>Civic</Model>
-      <Year>2007</Year>
-      <Colour>Yellow</Colour>
+      <VehicleId>16A9C1C8-95DF-44E6-94A5-C6DC4FDAAC29</VehicleId>
+      <Registration>XB5827</Registration>
+      <Make>BMW</Make>
+      <Model>528i</Model>
+      <Year>?</Year>
+      <Colour>Burgundy</Colour>
       <VehicleQuoteId>513B18C6-FC32-46AE-BBAA-32068FD4E47F</VehicleQuoteId>
     </Vehicle>
     <Vehicle>
-      <VehicleId>17B297A0-C72A-4D0E-9321-2AF8CAEEDCA6</VehicleId>
-      <Registration>POL446</Registration>
-      <Make>Jeep</Make>
-      <Model>Cheroke</Model>
-      <Year>2007</Year>
-      <Colour>Black</Colour>
+      <VehicleId>F1AA5EE1-77CC-439C-9E5A-079C1B223BEA</VehicleId>
+      <Registration>66STI6</Registration>
+      <Make>Subaru</Make>
+      <Model>Legacy</Model>
+      <Year>?</Year>
+      <Colour>Blue</Colour>
       <VehicleQuoteId>17B297A0-C72A-4D0E-9321-2AF8CAEEDCA6</VehicleQuoteId>
     </Vehicle>
     <Vehicle>
-      <VehicleId>4C5BCE79-2BEE-49ED-A0BB-AEDB94B13EEB</VehicleId>
-      <Registration>KL332</Registration>
-      <Make>Ford</Make>
-      <Model>Modeo</Model>
-      <Year>1999</Year>
-      <Colour>Blue</Colour>
+      <VehicleId>DB0AB831-E9E7-4BD9-802C-D2D606610B42</VehicleId>
+      <Registration>MAORI</Registration>
+      <Make>Mitsubishi</Make>
+      <Model>Dion</Model>
+      <Year>2000</Year>
+      <Colour>Black</Colour>
       <VehicleQuoteId>4C5BCE79-2BEE-49ED-A0BB-AEDB94B13EEB</VehicleQuoteId>
     </Vehicle>
     <Vehicle>
-      <VehicleId>35931061-8227-4B86-80C6-572AD9376911</VehicleId>
-      <Registration>LK990</Registration>
-      <Make>Ferrari</Make>
-      <Model>Testarossa</Model>
-      <Year>2005</Year>
-      <Colour>Red</Colour>
+      <VehicleId>7030A13A-9EC7-4664-B26D-718A9156E7BB</VehicleId>
+      <Registration>DIMWIT</Registration>
+      <Make>Vokswagen</Make>
+      <Model>Golf</Model>
+      <Year>2003</Year>
+      <Colour>Black</Colour>
       <VehicleQuoteId>35931061-8227-4B86-80C6-572AD9376911</VehicleQuoteId>
     </Vehicle>
-    <Vehicle>
-      <VehicleId>FF900970-48B8-4DB0-9BBD-C839C5964E15</VehicleId>
-      <Registration>FG123</Registration>
-      <Make>Hyundai</Make>
-      <Model>Accent</Model>
-      <Year>2009</Year>
-      <Colour>White</Colour>
-      <VehicleQuoteId>FF900970-48B8-4DB0-9BBD-C839C5964E15</VehicleQuoteId>
-    </Vehicle>
-    <Vehicle>
-      <VehicleId>549D322D-72E0-4490-B090-156ED378EF46</VehicleId>
-      <Registration>JR1110</Registration>
-      <Make>Hillman</Make>
-      <Model>Hunter</Model>
-      <Year>1979</Year>
-      <Colour>Yellow</Colour>
-      <VehicleQuoteId>549D322D-72E0-4490-B090-156ED378EF46</VehicleQuoteId>
-    </Vehicle>
   </Vehicles>
+
 
   <Pricing>
     <VehicleQuotes>
@@ -129,30 +112,12 @@
           250.00
         </Option3>
       </VehicleQuote>
-      <VehicleQuote>
-        <VehicleQuoteId>FF900970-48B8-4DB0-9BBD-C839C5964E15</VehicleQuoteId>
-        <Option1 Name="Third Party">
-          100.00
-        </Option1>
-        <Option2 Name="TP, Fire &amp; Theft">
-          150.00
-        </Option2>
-        <Option3 Name="Comprehensive">
-          250.00
-        </Option3>
-      </VehicleQuote>
-      <VehicleQuote>
-        <VehicleQuoteId>549D322D-72E0-4490-B090-156ED378EF46</VehicleQuoteId>
-        <Option1 Name="Third Party">
-          100.00
-        </Option1>
-        <Option2 Name="TP, Fire &amp; Theft">
-          150.00
-        </Option2>
-        <Option3 Name="Comprehensive">
-          250.00
-        </Option3>
-      </VehicleQuote>
     </VehicleQuotes>
   </Pricing>
+  <Promotions>
+    <Promotion>
+      <Id>0B0B8BEF-27D7-4C4D-8236-C2C7EE81371E</Id>
+      <PrizeDetails>Congratulations. You're a Prize winner in our random draw for a brand new Hyudai Sante Fe. Prizes claimed at MatchBox cars</PrizeDetails>
+    </Promotion>
+  </Promotions>
 </Data>
