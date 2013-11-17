@@ -15,17 +15,17 @@ namespace Innovation.OcrQuoteBuy.Tests.Controllers
     [TestClass]
     public class OcrControllerTest
     {
-        [TestMethod]
-        public async void Post_valid_image_returns_registration_text()
-        {
-            System.IO.MemoryStream stream = new System.IO.MemoryStream();
-            Resources.plate4.Save(stream, System.Drawing.Imaging.ImageFormat.Bmp);
-            var httpClient = new HttpClient();
-            HttpContent content = new FormUrlEncodedContent(new Dictionary<string, string>() { {"img", Encoding.ASCII.GetString(stream.ToArray()) } });
-            HttpResponseMessage response = await httpClient.PostAsync("http://localhost:61445/api/Reg/", content);
-            response.EnsureSuccessStatusCode();
-            string responseBody = await response.Content.ReadAsStringAsync();
+        //[TestMethod]
+        //public async void Post_valid_image_returns_registration_text()
+        //{
+        //    System.IO.MemoryStream stream = new System.IO.MemoryStream();
+        //    Resources.plate4.Save(stream, System.Drawing.Imaging.ImageFormat.Bmp);
+        //    var httpClient = new HttpClient();
+        //    HttpContent content = new FormUrlEncodedContent(new Dictionary<string, string>() { {"img", Encoding.ASCII.GetString(stream.ToArray()) } });
+        //    HttpResponseMessage response = await httpClient.PostAsync("http://localhost:61445/api/Reg/", content);
+        //    response.EnsureSuccessStatusCode();
+        //    string responseBody = await response.Content.ReadAsStringAsync();
 
-        }
+        //}
     }
 }
