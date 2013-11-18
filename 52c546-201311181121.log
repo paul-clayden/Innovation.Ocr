@@ -1,0 +1,4 @@
+#Software: Microsoft Internet Information Services 8.0
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-11-18 11:20:37 ~1OCRREGO GET /diagnostics/settings X-ARR-LOG-ID=5f423b1b-60a8-4a06-8ecb-ab27164b67e3 443 - 70.37.162.148 Azure-Portal/3.12.00298.5 - - ocrrego.scm.azurewebsites.net 200 0 0 621 937 1359
+2013-11-18 11:20:57 OCRREGO POST /api/Ocr X-ARR-LOG-ID=f307b7a2-e368-4a4d-a9f7-86cf575a7543 80 - 121.74.148.53 Apache-HttpClient/UNAVAILABLE+(java+1.4) - - ocrrego.azurewebsites.net 500 0 0 1641 30618 1265
